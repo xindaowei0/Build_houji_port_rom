@@ -1,4 +1,4 @@
-name: Build ROM for Houji
+name: 为后稷打造ROM
 on:
   workflow_dispatch:
     inputs:
